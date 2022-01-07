@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-
-
-| <a href="https://github.com/StephenSLI"><img src="https://github-readme-stats.vercel.app/api?username=StephenSLI&&count_private=true&include_all_commits=true&theme=" /></a> | <a href="https://github.com/StephenSLI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSLI&layout=compact&hide=jupyter notebook&count_private=true&langs_count=8&theme=" /></a> |
+|<img src="https://github-readme-stats.vercel.app/api?username=stephensli&count_private=true&include_all_commits=true&theme=" /></a> | <a href="https://github.com/stephensli"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephensli&layout=compact&hide=jupyter notebook&count_private=true&langs_count=8&theme=" /></a> |
 | ------------- | ------------- |
