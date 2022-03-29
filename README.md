@@ -2,8 +2,8 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/sstephen-lineker-miller/">
-  <img align="left" alt="Stephsn's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/stephen-lineker-miller/">
+  <img align="left" alt="Stephen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=stephensli)
