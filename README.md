@@ -2,7 +2,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/stephen-lineker-miller/">
+<a href="www.linkedin.com/in/stephensli">
   <img align="left" alt="Stephen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
