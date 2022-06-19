@@ -6,6 +6,6 @@ Hi, I'm Stephen, a passionate backend software engineer from the UK. I take grea
   <img width="250" align='left' src="https://github.com/stephensli/stephensli/blob/main/car.png?raw=true">
 </p>
  
- ### Cars 🚙
+ ### Cars 🚙 - [stephensli/cars](https://github.com/stephensli/cars)
 
-This is currently my main project i'm working on when I have some spare time. Cars is a sandbox environment to allow execution of untrusted code with fixed time, memory with support for output testing. It runs on all the major queue services, data stores with a focus on container execution.
+This is currently the main project I'm working on when I have some spare time. Cars is a sandbox environment to allow execution of untrusted code with fixed time, and memory with support for output testing. It runs on all the major queue services, and data stores with a focus on container execution.
