@@ -3,7 +3,7 @@ Hi, I'm Stephen, a passionate backend software engineer from the UK. I take grea
   ---
   
  <p>
-  <img width="250" align='left' src="https://github.com/stephensli/stephensli/blob/main/icon/car.png?raw=true">
+  <img width="250" align='left' src="https://github.com/stephensli/stephensli/blob/main/car.png?raw=true">
 </p>
  
  ### Cars 🚙
