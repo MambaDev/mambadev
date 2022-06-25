@@ -3,7 +3,9 @@ Hi, I'm Stephen, a passionate backend software engineer from the UK. I take grea
   ---
   
  <p>
-  <img width="250" align='left' src="https://github.com/stephensli/stephensli/blob/main/car.png?raw=true">
+  <a href="https://github.com/stephensli/cars">
+    <img width="250" align='left' src="https://github.com/stephensli/stephensli/blob/main/car.png?raw=true">
+  </a>
 </p>
  
  ### Cars (Compile & Run Sandbox) 🚙 - [stephensli/cars](https://github.com/stephensli/cars)
